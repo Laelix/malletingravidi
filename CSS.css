@@ -1,9 +1,8 @@
 body {
-	background-image: url(http://image.noelshack.com/fichiers/2018/45/3/1541598121-palogo.png);
+	background-image: url(http://image.noelshack.com/fichiers/2018/45/3/1541599465-palogo.png);
 	background-repeat: no-repeat;
 	background-position: center top;
-	background-size: 100%;
-
+	background-size: 100%; 
 }
 
 ul {
@@ -42,9 +41,7 @@ ul li a:focus{
 }
 
 div#imagePA {
-	
-	background: #424242;
-	margin-top: 53%;
+	margin-top: 35%;
 	margin-bottom: 0px;
   max-width: 800px;
   margin-right: auto;
@@ -88,6 +85,13 @@ div#paragraphe2 {
   padding-top:10px;
   padding-bottom: 10px;
     max-width: 800px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+div#image3 {
+	margin-bottom: 0px;
+  max-width: 800px;
   margin-right: auto;
   margin-left: auto;
 }
