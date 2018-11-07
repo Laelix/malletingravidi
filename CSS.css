@@ -120,19 +120,7 @@ div#image3 {
 /* Footer left */
 
 .footer-distributed .footer-left{
-	width: 40%;
-}
-
-/* The company logo */
-
-.footer-distributed h3{
-	color:  #ffffff;
-	font: normal 20px 'Cookie', cursive;
-	margin: 0;
-}
-
-.footer-distributed h3 span{
-	color:  #5383d3;
+	width: 34%;
 }
 
 /* Footer links */
