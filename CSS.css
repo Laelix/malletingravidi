@@ -16,7 +16,7 @@ body {
 body#bodybio {
 	 height: 100%;
   background-color: #242424;
-	background-image: url(http://image.noelshack.com/fichiers/2018/45/4/1541694455-imagebio.png);
+	background-image: url(http://image.noelshack.com/fichiers/2018/45/4/1541692301-imagebio.png);
 	background-repeat: no-repeat;
 	background-position: center top;
 	/*margin-top: 20px;*/
@@ -120,7 +120,7 @@ div#ligne1bio {
 	background: #424242;
 	margin-bottom: 0px;
   max-width: 800px;
-  margin-top: 30%;
+  margin-top: 38%;
   margin-right: auto;
   margin-left: auto;
 }
