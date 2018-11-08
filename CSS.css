@@ -16,10 +16,10 @@ body {
 body#bodybio {
 	 height: 100%;
   background-color: #242424;
-	background-image: url(http://image.noelshack.com/fichiers/2018/45/4/1541692301-imagebio.png);
+	background-image: url(http://image.noelshack.com/fichiers/2018/45/4/1541694455-imagebio.png);
 	background-repeat: no-repeat;
 	background-position: center top;
-	margin-top: 20px;
+	/*margin-top: 20px;*/
 	background-size: 100%; 
 	}
 
