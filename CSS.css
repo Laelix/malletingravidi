@@ -19,6 +19,7 @@ body#bodybio {
 	background-image: url(http://image.noelshack.com/fichiers/2018/45/4/1541692301-imagebio.png);
 	background-repeat: no-repeat;
 	background-position: center top;
+	margin-top: 20px;
 	background-size: 100%; 
 	}
 
@@ -113,21 +114,13 @@ div#image3 {
   margin-left: auto;
 }
 
-div#imageBIO {
-	margin-top: 0%;
-	margin-bottom: 0px;
-  max-width: 100%;
-height: auto;
-  margin-right: auto;
-  margin-left: auto;
-}
 
 div#ligne1bio {
 	width: 100%;
 	background: #424242;
 	margin-bottom: 0px;
   max-width: 800px;
-  margin-top: 5%;
+  margin-top: 30%;
   margin-right: auto;
   margin-left: auto;
 }
