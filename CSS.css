@@ -107,7 +107,8 @@ div#image3 {
 div#imageBIO {
 	margin-top: 0%;
 	margin-bottom: 0px;
-  width: auto;
+  max-width: 100%;
+height: auto;
   margin-right: auto;
   margin-left: auto;
 }
