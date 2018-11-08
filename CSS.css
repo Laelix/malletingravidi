@@ -13,6 +13,15 @@ body {
   }
 }
 
+body#bodybio {
+	 height: 100%;
+  background-color: #242424;
+	background-image: url(http://image.noelshack.com/fichiers/2018/45/4/1541692301-imagebio.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: 100%; 
+	}
+
 .menu {
   display: flex;
   justify-content: space-around;
