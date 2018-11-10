@@ -16,7 +16,7 @@ body {
 body#bodybio {
 	 height: 100%;
   background-color: #242424;
-	background-image: url(http://image.noelshack.com/fichiers/2018/45/4/1541692301-imagebio.png);
+	background-image: url(http://image.noelshack.com/fichiers/2018/45/6/1541878363-imagebio.png);
 	background-repeat: no-repeat;
 	background-position: center top;
 	/*margin-top: 20px;*/
@@ -26,6 +26,8 @@ body#bodybio {
 .menu {
   display: flex;
   justify-content: space-around;
+	position: fixed;
+	top: 0px;
   width: 100%;
   margin-top: 0;
   padding: 0;
@@ -65,7 +67,7 @@ div#imagePA {
   margin-left: auto;
 }
 
-div#ligne1 {
+.ligne1 {
 	width: 100%;
 	background: #424242;
 	margin-bottom: 0px;
@@ -74,7 +76,7 @@ div#ligne1 {
   margin-left: auto;
 }
 
-div#paragraphe1 {
+.paragraphe1 {
   color: white;
   font-size: 12px;
   font-family: verdana;
@@ -86,38 +88,17 @@ div#paragraphe1 {
 
 }
 
-div#ligne0 {
+.ligne0 {
 	width: 100%;
 	background: #424242;
-	margin-top: 25%;
+	margin-top: 30%;
 	margin-bottom: 0px;
   max-width: 800px;
   margin-right: auto;
   margin-left: auto;
 }
 
-
-div#ligne2 {
-	width: 100%;
-	margin-bottom:10px;
-    max-width: 800px;
-  margin-right: auto;
-  margin-left: auto;
-}
-div#paragraphe2 {
-  color: white;
-  font-size: 12px;
-  font-family: verdana;
-  text-align: justify;
-
-  padding-top:10px;
-  padding-bottom: 10px;
-    max-width: 800px;
-  margin-right: auto;
-  margin-left: auto;
-}
-
-div#image3 {
+.image3 {
   max-width: 800px;
   margin-top: 1em;
   margin-bottom: 10px;
@@ -154,7 +135,7 @@ div#paragraphe1bio {
 	justify-content: space-between;
 	align-content: space-between;
 	align-items: center;
-	width: 94%;
+	width: 84%;
 	margin-left: auto;
 	margin-right: auto;
 	
@@ -192,7 +173,7 @@ div#paragraphe1bio {
 	justify-content: space-between;
 	align-content: space-between;
 	align-items: center;
-	width: 94%;
+	width: 84%;
 	margin-left: auto;
 	margin-right: auto;
 	
@@ -218,13 +199,20 @@ div#paragraphe1bio {
 	background: #424242;
 }
 
-div#imagetitrebio {
+.imagetitrebio {
 	margin-top: 30%;
 	max-width: 300px;
 	margin-bottom: 0px;
 	margin-right: auto;
 	margin-left: auto;
-	
+}
+
+.imagetitredisco {
+	margin-top: 30%;
+	max-width: 300px;
+	margin-bottom: 2em;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 
