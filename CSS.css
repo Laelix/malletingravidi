@@ -1,7 +1,7 @@
 body {
   height: 100%;
   background-color: #242424;
-	background-image: url(http://image.noelshack.com/fichiers/2018/45/3/1541599465-palogo.png);
+	background-image: url(http://image.noelshack.com/fichiers/2018/45/7/1541959060-imagedisco-copie.png);
 	background-repeat: no-repeat;
 	background-position: center top;
 	background-size: contain; 
@@ -26,10 +26,9 @@ body#bodybio {
 body#bodydisco {
 	 height: 100%;
   background-color: #242424;
-	background-image: url(http://image.noelshack.com/fichiers/2018/45/7/1541932205-imagedisco.png);
+	background-image: url(http://image.noelshack.com/fichiers/2018/45/7/1541959060-imagedisco-copie.png);
 	background-repeat: no-repeat;
 	background-position: center top;
-	/*margin-top: 20px;*/
 	background-size: 100%; 
 	}
 
@@ -80,7 +79,7 @@ div#imagePA {
 .ligne1 {
 	width: 100%;
 	background: #424242;
-	margin-bottom: 0px;
+	margin-bottom: 2em;;
   max-width: 800px;
   margin-right: auto;
   margin-left: auto;
@@ -102,7 +101,7 @@ div#imagePA {
 	width: 100%;
 	background: #424242;
 	margin-top: 30%;
-	margin-bottom: 0px;
+	margin-bottom: 2em;
   max-width: 800px;
   margin-right: auto;
   margin-left: auto;
@@ -111,7 +110,7 @@ div#imagePA {
 .image3 {
   max-width: 800px;
   margin-top: 1em;
-  margin-bottom: 10px;
+  margin-bottom: 1.75em;
   margin-right: auto;
   margin-left: auto;
 }
