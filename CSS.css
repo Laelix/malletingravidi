@@ -23,6 +23,16 @@ body#bodybio {
 	background-size: 100%; 
 	}
 
+body#bodydisco {
+	 height: 100%;
+  background-color: #242424;
+	background-image: url(http://image.noelshack.com/fichiers/2018/45/7/1541932205-imagedisco.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+	/*margin-top: 20px;*/
+	background-size: 100%; 
+	}
+
 .menu {
   display: flex;
   justify-content: space-around;
@@ -128,7 +138,7 @@ div#paragraphe1bio {
 
 }
 
-#boite
+.boite
 {
     display: flex;
 	flex-wrap: wrap;
@@ -215,6 +225,22 @@ div#paragraphe1bio {
 	margin-left: auto;
 }
 
+.imagesoustitredisco {
+	max-width: 200px;
+	margin-bottom: 1em;
+	margin-left: 10%;
+}
+
+.imagesoustitredisco2 {
+	max-width: 300px;
+	margin-top: 2em;
+	margin-bottom: 1em;
+	margin-left: 10%;
+}
+
+.titres {
+	column-count: 2;
+}
 
 /*FOOOTER*/
 
