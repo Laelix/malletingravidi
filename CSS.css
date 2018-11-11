@@ -137,6 +137,27 @@ div#paragraphe1bio {
 
 }
 
+.lignemilieubio {
+	width: 84%;
+	background: #424242;
+	margin-bottom: 1em;
+	margin-top: 1em;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.paragraphemilieubio {
+  color: white;
+  font-size: 12px;
+  font-family: verdana;
+  text-align: justify;
+  padding-top:10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+
+}
+
 .boite
 {
     display: flex;
